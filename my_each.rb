@@ -1,7 +1,7 @@
 def my_each(array)
-  counter = 0 
+  i = 0 
   
   while counter < array.length 
-    counter += 1
+    i += 1
   end
 end
